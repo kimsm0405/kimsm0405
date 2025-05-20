@@ -28,6 +28,10 @@
 - 미래내일 일경험 프로젝트 <AI-Agent 기반 뉴스 시스템>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsm0405&show_icons=true&theme=dracula)
+
+
+
 <!--
 **kimsm0405/kimsm0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
