@@ -27,9 +27,11 @@
 - 한이음 공모전 <AI-Agent 기반 실시간 재활용 쓰레기 자동 분류 시스템>
 - 미래내일 일경험 프로젝트 <AI-Agent 기반 뉴스 시스템>
 
-
+------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsm0405&show_icons=true&theme=dracula)
 
+------------------------------------------------------------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsm0405&layout=compact&theme=dracula)
 
 
 <!--
