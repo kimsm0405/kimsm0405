@@ -1,4 +1,4 @@
-# 안녕하세요! 저는 김성민 입니다.
+# 안녕하세요! 김성민 입니다.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20My%20name%20is%20KSM%20%F0%9F%A4%97)
 
