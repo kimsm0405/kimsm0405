@@ -11,7 +11,7 @@
 - 한국폴리텍 정수캠퍼스 인공지능소프트웨어 과정 수료 예정
 
 ------------------------------------------------------------
-## Skills & Certifications
+## 🔧Skills & Certifications
 ### Planning
 - 정보처리기사 (8월 중)
 - 빅데이터분석기사 (8월 중)
@@ -20,7 +20,7 @@
 - 토익 (TOEIC) - 850점
 
 ------------------------------------------------------------
-## Languages
+## 🪄Languages
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
