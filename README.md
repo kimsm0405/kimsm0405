@@ -24,15 +24,10 @@
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![js](https://camo.githubusercontent.com/b1091f35dbd1cc968020523ee8b6cc32dfb9b25d809a034e422b1329129e79bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
+![js](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-- Python
-- C언어
-- HTML
-- SQL
-- Java
 
 ------------------------------------------------------------
 ## 💻Projects
