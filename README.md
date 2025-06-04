@@ -39,14 +39,15 @@ Github는 제 포트폴리오를 관리하고, 학습을 기록하며, 창의적
 웹 프로그래밍, 데이터베이스, 클라우드 컴퓨팅, UI/UX 디자인, AI 관련 분야, 최신 IT 기기 분석 등 
 
 ------------------------------------------------------------
+## 📬Contact
+✉ ksm990405@gmail.com
+
+------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsm0405&show_icons=true&theme=dracula)
 
 ------------------------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsm0405&layout=compact&theme=dracula)
 
-------------------------------------------------------------
-## 📬Contact
-✉ ksm990405@gmail.com
 
 
 <!--
