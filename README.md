@@ -28,8 +28,6 @@ Github는 제 포트폴리오를 관리하고, 학습을 기록하며, 창의적
 ![js](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
-
 ------------------------------------------------------------
 ## 💻Projects
 - 한이음 공모전 <AI-Agent 기반 실시간 재활용 쓰레기 자동 분류 시스템>
@@ -44,6 +42,10 @@ Github는 제 포트폴리오를 관리하고, 학습을 기록하며, 창의적
 
 ------------------------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsm0405&layout=compact&theme=dracula)
+
+------------------------------------------------------------
+## 📬Contact
+✉ ksm990405@gmail.com
 
 
 <!--
