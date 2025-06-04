@@ -24,6 +24,7 @@
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
@@ -34,12 +35,12 @@
 - Java
 
 ------------------------------------------------------------
-## Projects
+## 💻Projects
 - 한이음 공모전 <AI-Agent 기반 실시간 재활용 쓰레기 자동 분류 시스템>
 - 미래내일 일경험 프로젝트 <AI-Agent 기반 뉴스 시스템>
 
 ------------------------------------------------------------
-## Fields of interest
+## 🪬Fields of interest
 웹 프로그래밍, 데이터베이스, 클라우드 컴퓨팅, UI/UX 디자인, AI 관련 분야, 최신 IT 기기 분석 등 
 
 ------------------------------------------------------------
