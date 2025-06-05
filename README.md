@@ -43,7 +43,7 @@ Github는 제 포트폴리오를 관리하고, 학습을 기록하며, 창의적
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![](https://img.shields.io/badge/Slack-%20%23-purple?logo=Slack)
+![](https://img.shields.io/badge/Slack-purple?logo=Slack)
 
 ------------------------------------------------------------
 ## 💻Projects
