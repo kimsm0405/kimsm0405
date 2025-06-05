@@ -25,7 +25,7 @@ Github는 제 포트폴리오를 관리하고, 학습을 기록하며, 창의적
 
 ------------------------------------------------------------
 ## 🪄Currently studying Languages
-![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
