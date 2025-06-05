@@ -35,6 +35,15 @@ Github는 제 포트폴리오를 관리하고, 학습을 기록하며, 창의적
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 ------------------------------------------------------------
+## 🛠️DevOps
+![js](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![js](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+![js](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![js](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![js](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+------------------------------------------------------------
 ## 💻Projects
 - 🗑 <AI-Agent 기반 실시간 재활용 쓰레기 자동 분류 시스템> - 한이음 프로젝트 (2025.04 ~ 2025.10)
 
