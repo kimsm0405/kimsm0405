@@ -1,5 +1,5 @@
 # 안녕하세요! 김성민 입니다.
-
+------------------------------------------------------------
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20My%20name%20is%20KSM%20%F0%9F%A4%97)
 
 개발자를 꿈꾸며 배우고 성장하고 있는 학생입니다. Python, C언어, HTML, SQL, Java 등 다양한 기술을 탐구하며 프로그래밍 세계를 알아가고 있습니다. 
